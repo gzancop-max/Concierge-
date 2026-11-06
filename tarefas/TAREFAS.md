@@ -4,7 +4,6 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 
 ## 🔴 Precisa do usuário
 - [ ] Decidir sobre os 3 PRs em rascunho dos agentes (TCC, Radar, Papelada): mesclar na `main`? — esta semana — usuário — C
-- [ ] Aprovar os horários das rotinas do Concierge — esta semana — usuário — C
 - [ ] Confirmar se a regra "nada por e-mail" vale para o agente TCC também — esta semana — usuário — C
 - [ ] Autorizar a correção do CRM no `CLAUDE.md` da Papelada (238449 → 238339) — esta semana — usuário — C
 - [ ] Confirmar com a COREME a data exata da defesa — alta — usuário (agente:tcc já acompanha)
@@ -20,5 +19,6 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 _(vazio)_
 
 ## ✅ Concluído (últimos 7 dias)
+- [x] Ritmo definido: pulso horário, manejo e autocrítica diários — 2026-11-06 — usuário
 - [x] Estrutura inicial do Concierge — 2026-11-06 — concierge
 - [x] Mapeamento real dos agentes (branches, rotinas, painéis, pendências) — 2026-11-06 — concierge

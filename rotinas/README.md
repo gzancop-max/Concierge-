@@ -1,18 +1,15 @@
-# Rotinas automáticas
+# Rotinas
 
-Cada rotina é disparada por uma tarefa agendada do Claude Code (sessão nova a cada disparo, com notificação push no celular).
-O prompt agendado é sempre: _"Você é o Concierge. Clone gzancop-max/Concierge-, leia CLAUDE.md e execute rotinas/<arquivo>.md."_
+Uma única tarefa agendada dispara o **pulso horário** (`pulso-horario.md`), 24h por dia. O próprio pulso decide qual rotina rodar pelo horário:
 
-| Rotina | Arquivo | Quando (America/Sao_Paulo) — provisório |
+| Rotina | Arquivo | Quando (America/Sao_Paulo) |
 |---|---|---|
-| Briefing matinal | `briefing-matinal.md` | todo dia 07:40 |
-| Revisão noturna | `revisao-noturna.md` | todo dia 21:10 |
-| Varredura de agentes | `varredura-agentes.md` | seg/qua/sex 13:20 |
-| Revisão semanal + auto-aprimoramento | `revisao-semanal.md` | domingo 18:20 |
+| Pulso (sempre) | `pulso-horario.md` | toda hora |
+| Briefing matinal | `briefing-matinal.md` | 1º pulso após 07:00 |
+| Manejo dos agentes | `manejo-agentes.md` | 1º pulso após 08:00 e após 16:00 |
+| Fechamento + autocrítica | `revisao-noturna.md` + `auto-aprimoramento.md` | 1º pulso após 21:00 |
+| Revisão semanal | `revisao-semanal.md` | domingo, no fechamento |
 
-Horários só mudam com aprovação do usuário (via PR).
-
-## Regras comuns a todas as rotinas
-- Se não houver nada útil a dizer, a mensagem final é uma linha só ("Tudo em ordem. Nada precisa de você.") — não invente conteúdo.
-- A **mensagem final da sessão** é o que chega como notificação: escreva-a para ser lida no celular em 20 segundos.
-- Sempre termine com: diário atualizado, `tarefas/TAREFAS.md` atualizado, `painel/PAINEL.md` regenerado, commit + push na `main`.
+## Regras comuns
+- O pulso decide se fala com o Giuseppe (critérios no §4 do pulso). Sem nada útil: não fala.
+- Sempre termina com diário atualizado, tarefas/painel atualizados se mudaram, commit + push.
