@@ -2,7 +2,7 @@
 
 > Fontes: o próprio Giuseppe (06/11/2026) e os arquivos dos agentes TCC, Promoções e Papelada.
 > Fatos confirmados sem marca; suposições com `(?)`. Faça no máximo 1–2 perguntas por dia para completar o que falta.
-> Grafia do sobrenome: os documentos oficiais (TCC, CEP) usam **Zangrandi** — confirmar.
+> Sobrenome: **Zangrandi** (com i) — confirmado por ele em 06/11/2026.
 
 ## Básico
 - Homem, 27 anos. Natural de **Guaratinguetá/SP**. Mora em **Campinas/SP** (fuso America/Sao_Paulo).
