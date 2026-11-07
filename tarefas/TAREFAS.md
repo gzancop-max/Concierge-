@@ -3,6 +3,7 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
 - [ ] Papelada: responder a pergunta travada na sessão dela desde 01:09 (como fazer o backup: "Cofre" privado no claude.ai, Drive, ou só local) — hoje — usuário — C. Sugestão do Concierge: Cofre.
 - [ ] TCC: confirmar com a COREME a data da defesa — o projeto enviado ao CEP diz abr/2027, o plano do agente diz fev/2027 — alta — usuário — C
 - [ ] TCC: confirmar a origem dos dados da Figura 4 / seção 6.6 (coerência com a carta ao CEP) — esta semana — usuário (pedido do agente TCC) — C
