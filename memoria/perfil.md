@@ -28,7 +28,7 @@
 - Prefere qualidade a preço baixo de coisa genérica.
 
 ## Rotina
-- Acorda / dorme: _a confirmar_
+- Acorda / dorme: _a confirmar_ (estava ativo por volta de 00h em 07/11 (?))
 - Plantões / escala: _a confirmar_ (importante para não incomodar em plantão/cirurgia e proteger o descanso)
 - Missa / compromissos religiosos: _a confirmar_ (?)
 - Rotina do husky (passeios, veterinário, vacinas): _a confirmar_
