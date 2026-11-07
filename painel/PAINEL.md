@@ -1,18 +1,20 @@
 # Painel do Concierge
-_Atualizado em 2026-11-06 — regenerado pelas rotinas._
+_Atualizado em 2026-11-06 21:25 — regenerado pelas rotinas._
 
 ## Precisa de você
-1. **PRs dos agentes**: TCC, Radar e Papelada estão com o trabalho em PR rascunho, fora da `main`. Mesclar? (recomendo: sim, os três)
-2. ~~Horários~~ → resolvido: pulso de hora em hora (briefing após 07h, manejo dos agentes após 08h e 16h, fechamento + autocrítica após 21h).
-3. **E-mail**: o agente TCC te manda e-mails. Desligo isso também (avisos só por notificação/painel)?
-4. **CRM errado na Papelada** (238449 no lugar de 238339). Posso corrigir?
+1. **TCC — Figura 4 / seção 6.6:** confirmar de onde vêm os dados (precisa bater com a carta ao CEP).
+2. **TCC — e-mail ao HMMG:** rascunho pronto no Gmail; revisar e enviar.
+3. **CRM errado na Papelada** (238449 → 238339): posso pedir a correção?
+4. **E-mail do agente TCC:** desligar os avisos por e-mail dele também?
+5. **PRs dos agentes:** mesclar na `main` quando o GitHub voltar.
 
 ## Agentes
-| Agente | Estado | Próximo passo |
+| Agente | Estado | Destaque |
 |---|---|---|
-| TCC | ativo, 3×/dia | CEP em análise; parecer previsto fim nov/início dez. Defesa fev/2027 |
-| Radar de Oportunidades | ativo, 06:36 | lista de desejos ainda só com exemplos |
-| Papelada Cirúrgica | ciclo 1 feito; sem rotina | simplificar o app; pendências de teste da v2 com você |
+| TCC | ativo; backup no Drive ok (7 commits) | CEP: parecer previsto 11–21/11. TCC v2 com correções formais e 8 artigos novos |
+| Radar | ativo; backup ok (4 commits) | batedor internacional + calculadora de importação novos |
+| Papelada | fazendo o 1º backup (2/5) | — |
+| Concierge | pulso horário ativo; backup ok (6 commits) | — |
 
-## Recomendações
-- A rotina matinal está cheia (06:36, 06:45, 06:47 rodam agentes). O Concierge entra às 07:40 e junta tudo numa mensagem só — você não precisa abrir três painéis.
+## GitHub
+Conta suspensa; chamado no GitHub Support #4965719 aberto. Tudo com backup no Drive enquanto isso.

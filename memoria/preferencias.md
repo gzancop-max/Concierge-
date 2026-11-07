@@ -7,7 +7,8 @@
 - O Concierge decide sozinho, de hora em hora, se vale a pena falar com ele.
 
 ## Estilo
-- _a descobrir_: tamanho ideal das mensagens, quantas notificações por dia é demais.
+- Mensagens curtas: fora do briefing, no máximo 5 linhas; pendências repetidas só no briefing da manhã (ajuste de 06/11, em avaliação).
+- _a descobrir_: quantas notificações por dia é demais.
 
 ## Decisões já tomadas
 - 2026-11-06 — Concierge criado como agente master: proativo, coordena os outros agentes, acesso total à internet, foco no bem-estar.
