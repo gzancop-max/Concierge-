@@ -2,6 +2,8 @@
 
 O Concierge coordena estes agentes. **Leitura livre; escrita só com aviso prévio ao usuário** (ver `CLAUDE.md`).
 
+> **GitHub suspenso (desde 07/11/2026):** acompanhe os agentes pelo Drive — STATUS na pasta de cada um e a pasta `Mensagens` (IDs em `comunicacao/protocolo-backup-drive.md`). O prompt que o Giuseppe colou nos agentes está em `comunicacao/prompt-para-agentes.md`.
+
 > Atenção (06/11/2026): o trabalho dos três agentes está em **branches com PR #1 em rascunho, ainda não mesclado**. A `main` deles só tem o README. Até o merge, leia sempre a branch ativa abaixo.
 
 | Agente | Repositório | Branch ativa | Propósito | Rotinas agendadas (SP) | Painel |
