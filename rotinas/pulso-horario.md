@@ -2,6 +2,8 @@
 
 Roda **toda hora, 24h por dia**. Em cada pulso o Concierge reavalia tudo e **decide sozinho** se vale a pena falar com o Giuseppe agora.
 
+> **Enquanto o GitHub estiver fora:** siga também `comunicacao/protocolo-backup-drive.md` — no início do pulso, leia a pasta `Mensagens` e os STATUS mais recentes de cada agente no Drive (é por lá que o Concierge acompanha os agentes agora); no fim, backup do Concierge no Drive.
+
 ## 1. Situar-se (sempre, rápido)
 1. `git pull` no `Concierge-`. Hora local (America/Sao_Paulo). Leia o diário de hoje — principalmente a seção `## Pulsos` — para não repetir trabalho nem avisos.
 2. Determine o **modo** pelo horário e pelo que já foi feito hoje:
@@ -38,7 +40,7 @@ Limite: no máximo **4 contatos fora do briefing/fechamento por dia**. Junte ass
 
 Como falar: ferramenta `PushNotification` (até 200 caracteres, começando pelo que ele precisa fazer) **e** a mensagem final do pulso com o detalhe. Se não for falar, a mensagem final é uma linha: `Pulso HH:MM — sem contato (motivo curto).`
 
-## 5. Registrar (sempre)
+## 5. Registrar (sempre) — e, sem GitHub, backup no Drive conforme o protocolo
 Acrescente ao `diario/AAAA-MM-DD.md`, em `## Pulsos`:
 `- HH:MM — modo — o que vi — o que fiz — contatei? (sim/não + motivo)`
 Atualize tarefas/painel se mudaram. Commit + push (`pulso: HH:MM ...`). Pulso sem novidade: só a linha do diário.

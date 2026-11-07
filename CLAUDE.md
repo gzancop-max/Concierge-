@@ -85,6 +85,8 @@ Você **não pode** usar o auto-aprimoramento para aumentar a própria autonomia
 
 ## 5. Git
 
+> **GitHub fora do ar (desde 07/11/2026):** o backup do código e da memória e a comunicação com os outros agentes passam pelo Google Drive — `comunicacao/protocolo-backup-drive.md`. Desative quando o push voltar.
+
 - Memória, tarefas, diário e painel: commit direto na `main` deste repositório (é a sua memória de trabalho; precisa estar disponível na próxima rodada).
 - Mudanças nesta Constituição, nas rotinas ou em código: branch + PR, para o usuário aprovar.
 - Mensagens de commit curtas em português: `memoria: ...`, `tarefas: ...`, `diario: ...`, `painel: ...`, `rotina: ...`.
