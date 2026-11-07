@@ -25,11 +25,12 @@ O conector do Drive **não sobrescreve conteúdo**: cada envio é um arquivo **n
    ```bash
    B=$(git rev-parse --abbrev-ref HEAD)
    git format-patch origin/$B --stdout > /tmp/pendente.patch      # commits ainda não enviados, restauráveis com `git am`
-   git diff --stat origin/$B HEAD --numstat | awk '$1=="-"{print $3}'  # lista os arquivos binários (não vão no patch de texto)
+   git diff --numstat origin/$B HEAD | awk '$1=="-"{print $3}'  # lista os arquivos binários (não vão no patch de texto)
    wc -c /tmp/pendente.patch
    ```
    - **Envie só o que ainda não foi para o Drive**: na primeira vez, o patch acima; nas seguintes, `git format-patch $(cat .backup-drive/ultimo-commit)..HEAD --stdout`. Depois grave `git rev-parse --short HEAD` em `.backup-drive/ultimo-commit` (pasta fora do git — ponha `.backup-drive/` no `.gitignore`).
    - Crie `AAAA-MM-DD_HHMM_<agente>_pendente.patch` na sua pasta (`textContent` com o patch **exato**, `contentMimeType: text/plain`, `disableConversionToGoogleType: true`). Copie o conteúdo sem alterar nem resumir: o patch precisa aplicar com `git am`.
+   - **Confira o envio:** o `fileSize` que o Drive devolve tem de ser igual ao `wc -c` do patch. Se diferir, você errou na cópia — reenvie esse commit sozinho (`git format-patch -1 <hash> --stdout`) com o sufixo `_CORRECAO-<hash>` e só siga quando bater. Quanto menor o arquivo, menor a chance de erro: prefira um arquivo por commit.
    - Patch acima de ~60 KB: divida em um arquivo por commit (`git format-patch -1 <hash> --stdout`), numerados `_1de3`, `_2de3`... Se um único commit passar de ~60 KB (geralmente dados gerados), envie só os arquivos de texto essenciais dele (instruções, memória, estado, relatórios) e liste o resto no STATUS como "só local".
    - Arquivos **binários** (docx, png, pdf): não vão no patch. Se forem produtos importantes para o Giuseppe e ainda não estiverem no Drive, envie o arquivo com `base64Content` **só se tiver menos de ~200 KB**; senão, liste-os no STATUS como "só local".
 3. **STATUS** — crie `AAAA-MM-DD_HHMM_<agente>_STATUS.md` na sua pasta:
