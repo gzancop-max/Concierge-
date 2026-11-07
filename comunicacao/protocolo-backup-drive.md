@@ -28,8 +28,9 @@ O conector do Drive **não sobrescreve conteúdo**: cada envio é um arquivo **n
    git diff --stat origin/$B HEAD --numstat | awk '$1=="-"{print $3}'  # lista os arquivos binários (não vão no patch de texto)
    wc -c /tmp/pendente.patch
    ```
-   - Se o patch tiver **até ~300 KB**: crie `AAAA-MM-DD_HHMM_<agente>_pendente.patch` na sua pasta (`textContent`, `contentMimeType: text/plain`, `disableConversionToGoogleType: true`).
-   - Se for maior: envie só os commits novos desde o último backup (`git format-patch <ultimo-commit-enviado>..HEAD --stdout`) e guarde o hash do último commit enviado em `.backup-drive/ultimo-commit`.
+   - **Envie só o que ainda não foi para o Drive**: na primeira vez, o patch acima; nas seguintes, `git format-patch $(cat .backup-drive/ultimo-commit)..HEAD --stdout`. Depois grave `git rev-parse --short HEAD` em `.backup-drive/ultimo-commit` (pasta fora do git — ponha `.backup-drive/` no `.gitignore`).
+   - Crie `AAAA-MM-DD_HHMM_<agente>_pendente.patch` na sua pasta (`textContent` com o patch **exato**, `contentMimeType: text/plain`, `disableConversionToGoogleType: true`). Copie o conteúdo sem alterar nem resumir: o patch precisa aplicar com `git am`.
+   - Patch acima de ~60 KB: divida em um arquivo por commit (`git format-patch -1 <hash> --stdout`), numerados `_1de3`, `_2de3`... Se um único commit passar de ~60 KB (geralmente dados gerados), envie só os arquivos de texto essenciais dele (instruções, memória, estado, relatórios) e liste o resto no STATUS como "só local".
    - Arquivos **binários** (docx, png, pdf): não vão no patch. Se forem produtos importantes para o Giuseppe e ainda não estiverem no Drive, envie o arquivo com `base64Content` **só se tiver menos de ~200 KB**; senão, liste-os no STATUS como "só local".
 3. **STATUS** — crie `AAAA-MM-DD_HHMM_<agente>_STATUS.md` na sua pasta:
    ```
