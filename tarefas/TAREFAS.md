@@ -4,7 +4,8 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 
 ## 🔴 Precisa do usuário
 - [ ] TCC: enviar os 2 rascunhos prontos no Gmail (preparados pelo agente TCC em 08/11) — esta semana — usuário — C
-- [ ] Papelada: responder a pergunta pendente na sessão dela (desde 08/11 00:05) — hoje — usuário — C
+- [ ] Papelada: responder a dúvida clínica pendente (abdome de PO normal no retorno 7–30 d) — hoje — usuário — C
+- [ ] Autorizar o Concierge a sugerir à Papelada que junte as dúvidas e siga trabalhando enquanto espera (travou 4× em 2 dias, uma pergunta por vez) — usuário — C
 - [ ] Radar: decidir 2 sugestões (digital/viagens 1×/semana; lista de peças de hardware-alvo) — esta semana — usuário — C
 - [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (3 avisos) — baixa — usuário
 - [ ] TCC: responder a folha com 10 decisões numa linha (e-mail do agente TCC de 07/11 21h) — esta semana — usuário — C
