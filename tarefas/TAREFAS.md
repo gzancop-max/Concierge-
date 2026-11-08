@@ -3,8 +3,8 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] TCC: responder a folha com 10 decisões numa linha (e-mail do agente TCC de 07/11 21h) — esta semana — usuário — C
 - [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
-- [ ] Papelada: responder a pergunta na sessão dela (desde 13:35): ECG, raio X e coagulograma marcados por padrão no pedido da 1ª consulta? — hoje — usuário — C
 - [ ] TCC: conferir se o diário de campo (Pendência 5) foi anexado à Plataforma Brasil — esta semana — usuário — C
 - [ ] TCC: confirmar com a COREME a data da defesa — o projeto enviado ao CEP diz abr/2027, o plano do agente diz fev/2027 — alta — usuário — C
 - [ ] TCC: confirmar a origem dos dados da Figura 4 / seção 6.6 (coerência com a carta ao CEP) — esta semana — usuário (pedido do agente TCC) — C
