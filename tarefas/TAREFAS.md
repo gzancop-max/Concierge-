@@ -3,7 +3,7 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
-- [ ] TCC: aprovar/negar o comando pendente na sessão dele (rotina de 08/11 parada desde 07:01) — hoje — usuário — C
+- [ ] TCC: enviar os 2 rascunhos prontos no Gmail (preparados pelo agente TCC em 08/11) — esta semana — usuário — C
 - [ ] Papelada: responder a pergunta pendente na sessão dela (desde 08/11 00:05) — hoje — usuário — C
 - [ ] Radar: decidir 2 sugestões (digital/viagens 1×/semana; lista de peças de hardware-alvo) — esta semana — usuário — C
 - [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (3 avisos) — baixa — usuário
