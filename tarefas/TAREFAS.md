@@ -3,6 +3,10 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] TCC: aprovar/negar o comando pendente na sessão dele (rotina de 08/11 parada desde 07:01) — hoje — usuário — C
+- [ ] Papelada: responder a pergunta pendente na sessão dela (desde 08/11 00:05) — hoje — usuário — C
+- [ ] Radar: decidir 2 sugestões (digital/viagens 1×/semana; lista de peças de hardware-alvo) — esta semana — usuário — C
+- [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (3 avisos) — baixa — usuário
 - [ ] TCC: responder a folha com 10 decisões numa linha (e-mail do agente TCC de 07/11 21h) — esta semana — usuário — C
 - [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
 - [ ] TCC: conferir se o diário de campo (Pendência 5) foi anexado à Plataforma Brasil — esta semana — usuário — C
