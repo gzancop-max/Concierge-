@@ -43,7 +43,7 @@ Como falar: ferramenta `PushNotification` (até 200 caracteres, começando pelo 
 ## 5. Registrar (sempre) — e, sem GitHub, backup no Drive conforme o protocolo
 Acrescente ao `diario/AAAA-MM-DD.md`, em `## Pulsos`:
 `- HH:MM — modo — o que vi — o que fiz — contatei? (sim/não + motivo)`
-Atualize tarefas/painel se mudaram. Commit + push (`pulso: HH:MM ...`) **só se o pulso teve novidade**; pulso sem novidade só acrescenta a linha no diário, sem commit (ela entra no próximo commit). (ajuste de 07/11)
+Atualize tarefas/painel se mudaram. Commit + push (`pulso: HH:MM ...`) sempre (a sessão exige árvore limpa). Enquanto o GitHub estiver fora, responda ao aviso de commits pendentes com uma linha só. (ajuste de 07/11 revertido em 08/11)
 
 ## Custo
 Pulso normal deve ser leve (poucos minutos). Trabalho pesado vai para os pulsos de manejo/fechamento ou para os próprios agentes.
