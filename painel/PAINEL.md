@@ -18,5 +18,8 @@ _Atualizado em 2026-11-07 07:25 — regenerado pelas rotinas._
 | Papelada | bloqueada: pergunta para você | ciclo 6 em andamento; backup grande (151 arquivos) |
 | Concierge | pulso horário ativo; backup ok (6 commits) | — |
 
+## Projetos parados
+- **Migração para o PC-PEPE — PARADA.** Depende do Giuseppe no PC: atualizar o app Claude e adicionar `C:\Users\Giuseppe\Agentes` em Remote Control. Agentes ainda não avisados.
+
 ## GitHub
 Conta suspensa; chamado no GitHub Support #4965719 aberto. Tudo com backup no Drive enquanto isso.
