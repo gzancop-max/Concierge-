@@ -2,9 +2,9 @@
 
 O Concierge coordena estes agentes. **Leitura livre; escrita só com aviso prévio ao usuário** (ver `CLAUDE.md`).
 
-> **Manejo 07/11 16:20:** TCC ativo (bloco da tarde: TCC v4 harmonizado com o projeto do CEP; plano B com SIH 2015–2025; 32 commits só locais — código/dados do plano B fora do backup do Drive = risco). Radar ocioso aguardando GitHub (rodou 06:36 ok). Papelada **bloqueada de novo** desde 13:35 numa decisão clínica (exames pré-op marcados por padrão na 1ª consulta). Giuseppe avisado por push.
+> **Manejo 09/11 16:20:** GitHub de volta; regras de uso prudente (comunicacao/uso-github.md) enviadas aos 3 — TCC aplicou (commit 3534daa), Papelada aplica e pede ok do Giuseppe p/ gravar, Radar sem confirmação ainda. TCC trava com frequência em aprovação de comando (sugerido modo Auto).
 
-> **GitHub suspenso (desde 07/11/2026):** acompanhe os agentes pelo Drive — STATUS na pasta de cada um e a pasta `Mensagens` (IDs em `comunicacao/protocolo-backup-drive.md`). O prompt que o Giuseppe colou nos agentes está em `comunicacao/prompt-para-agentes.md`.
+> **GitHub voltou em 09/11** (antes: suspenso 06–09/11; o Drive segue como plano B). Acompanhe os agentes pelo Drive — STATUS na pasta de cada um e a pasta `Mensagens` (IDs em `comunicacao/protocolo-backup-drive.md`). O prompt que o Giuseppe colou nos agentes está em `comunicacao/prompt-para-agentes.md`.
 
 > Atenção (06/11/2026): o trabalho dos três agentes está em **branches com PR #1 em rascunho, ainda não mesclado**. A `main` deles só tem o README. Até o merge, leia sempre a branch ativa abaixo.
 
