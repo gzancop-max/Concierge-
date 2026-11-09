@@ -13,7 +13,8 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] TCC: conferir se o diário de campo (Pendência 5) foi anexado à Plataforma Brasil — esta semana — usuário — C
 - [ ] TCC: confirmar com a COREME a data da defesa — o projeto enviado ao CEP diz abr/2027, o plano do agente diz fev/2027 — alta — usuário — C
 - [ ] TCC: confirmar a origem dos dados da Figura 4 / seção 6.6 (coerência com a carta ao CEP) — esta semana — usuário (pedido do agente TCC) — C
-- [ ] TCC: revisar e enviar o e-mail ao HMMG (rascunho já no Gmail) — esta semana — usuário — C
+- [ ] 🔥 TCC: ENVIAR o e-mail ao HMMG (rascunho no Gmail desde 06/11, corrigido 08/11) — sem ele a extração não sai em dezembro — HOJE — usuário — C
+- [ ] 🔥 TCC: enviar o rascunho à COREME (data da defesa abr×fev) — HOJE — usuário — C
 - [ ] Decidir sobre os 3 PRs em rascunho dos agentes (TCC, Radar, Papelada): mesclar na `main`? — esta semana — usuário — C
 - [ ] Confirmar se a regra "nada por e-mail" vale para o agente TCC também — esta semana — usuário — C
 - [ ] Autorizar a correção do CRM no `CLAUDE.md` da Papelada (238449 → 238339) — esta semana — usuário — C
