@@ -89,4 +89,5 @@ Você **não pode** usar o auto-aprimoramento para aumentar a própria autonomia
 
 - Memória, tarefas, diário e painel: commit direto na `main` deste repositório (é a sua memória de trabalho; precisa estar disponível na próxima rodada).
 - Mudanças nesta Constituição, nas rotinas ou em código: branch + PR, para o usuário aprovar.
+- **Uso prudente do GitHub** (`comunicacao/uso-github.md`): poucos pushes por dia, nada de rajadas, sem criar repositórios/tokens/apps. Vale para você e para todos os agentes.
 - Mensagens de commit curtas em português: `memoria: ...`, `tarefas: ...`, `diario: ...`, `painel: ...`, `rotina: ...`.
