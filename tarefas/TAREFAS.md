@@ -3,6 +3,8 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] TCC: aprovar o comando pendente (desde 07:43) e, de preferência, pôr a sessão do TCC em modo Auto para parar de travar — hoje — usuário — C
+- [ ] Papelada: revisar/aprovar a parte de ambulatório do ciclo 22 — esta semana — usuário — C
 - [ ] TCC: enviar os 2 rascunhos prontos no Gmail (preparados pelo agente TCC em 08/11) — esta semana — usuário — C
 - [ ] Papelada: responder a dúvida clínica pendente (abdome de PO normal no retorno 7–30 d) — hoje — usuário — C
 - [ ] Autorizar o Concierge a sugerir à Papelada que junte as dúvidas e siga trabalhando enquanto espera (travou 4× em 2 dias, uma pergunta por vez) — usuário — C
