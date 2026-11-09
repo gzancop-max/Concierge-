@@ -22,4 +22,4 @@ _Atualizado em 2026-11-07 07:25 — regenerado pelas rotinas._
 - **Migração para o PC-PEPE — PARADA.** Depende do Giuseppe no PC: atualizar o app Claude e adicionar `C:\Users\Giuseppe\Agentes` em Remote Control. Agentes ainda não avisados.
 
 ## GitHub
-Conta suspensa; chamado no GitHub Support #4965719 aberto. Tudo com backup no Drive enquanto isso.
+De volta em 09/11 às 13:22. Agentes avisados pela pasta Mensagens do Drive para enviarem o que estava pendente.

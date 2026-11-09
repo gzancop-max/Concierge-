@@ -2,7 +2,7 @@
 
 Roda **toda hora, 24h por dia**. Em cada pulso o Concierge reavalia tudo e **decide sozinho** se vale a pena falar com o Giuseppe agora.
 
-> **Enquanto o GitHub estiver fora:** siga também `comunicacao/protocolo-backup-drive.md` — no início do pulso, leia a pasta `Mensagens` e os STATUS mais recentes de cada agente no Drive (é por lá que o Concierge acompanha os agentes agora); no fim, backup do Concierge no Drive.
+> Plano B: se o `git push` falhar, siga `comunicacao/protocolo-backup-drive.md` (backup no Drive). A pasta `Mensagens` do Drive continua sendo lida em todo pulso, até os agentes avisarem que voltaram ao GitHub.
 
 ## 1. Situar-se (sempre, rápido)
 1. `git pull` no `Concierge-`. Hora local (America/Sao_Paulo). Leia o diário de hoje — principalmente a seção `## Pulsos` — para não repetir trabalho nem avisos.
