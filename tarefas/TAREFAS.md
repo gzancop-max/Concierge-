@@ -3,6 +3,7 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] Afya Educação Médica: cobrança de pendência (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C
 - [ ] TCC: responder ao agente sobre 'os dados do hospital' (conteúdo, período, origem) — cuidado ético: nada de dados de pacientes antes do CEP — amanhã — usuário — C
 - [ ] Radar e Papelada: dar o ok, na sessão de cada um, para gravarem as regras do GitHub no CLAUDE.md — usuário — C
 - [ ] TCC: aprovar o comando pendente (desde 07:43) e, de preferência, pôr a sessão do TCC em modo Auto para parar de travar — hoje — usuário — C
