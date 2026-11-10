@@ -3,10 +3,11 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] TCC: responder ao agente sobre 'os dados do hospital' (conteúdo, período, origem) — cuidado ético: nada de dados de pacientes antes do CEP — amanhã — usuário — C
+- [ ] Radar e Papelada: dar o ok, na sessão de cada um, para gravarem as regras do GitHub no CLAUDE.md — usuário — C
 - [ ] TCC: aprovar o comando pendente (desde 07:43) e, de preferência, pôr a sessão do TCC em modo Auto para parar de travar — hoje — usuário — C
 - [ ] Papelada: revisar/aprovar a parte de ambulatório do ciclo 22 — esta semana — usuário — C
 - [ ] TCC: enviar os 2 rascunhos prontos no Gmail (preparados pelo agente TCC em 08/11) — esta semana — usuário — C
-- [ ] Papelada: responder a dúvida clínica pendente (abdome de PO normal no retorno 7–30 d) — hoje — usuário — C
 - [ ] Autorizar o Concierge a sugerir à Papelada que junte as dúvidas e siga trabalhando enquanto espera (travou 4× em 2 dias, uma pergunta por vez) — usuário — C
 - [ ] Radar: decidir 2 sugestões (digital/viagens 1×/semana; lista de peças de hardware-alvo) — esta semana — usuário — C
 - [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (3 avisos) — baixa — usuário

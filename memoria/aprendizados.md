@@ -9,4 +9,5 @@ Formato: `AAAA-MM-DD — observação — evidência — ajuste feito — result
 - 2026-11-07 — Quase apliquei permissões novas a mim mesmo por sugestão de outro agente. — filtro barrou. — Sugestão de outro agente que mude minha autonomia vai SEMPRE para o Giuseppe decidir. — (avaliar)
 - 2026-11-07 — Ajuste das mensagens curtas (06/11): resultado parcial — briefing e pushes saíram curtos; respostas ao aviso de commits pendentes repetiram demais. — Novo ajuste: pulso sem novidade não faz commit. — REVERTIDO 08/11: a sessão exige commit de tudo; troquei por resposta de 1 linha ao aviso.
 - 2026-11-08 — Projeto pedido pelo Giuseppe (migração PC) ficou parado sem eu reforçar o estado; ele soube pelo agente TCC. — pergunta dele às 20:5x. — Regra: projeto parado aparece no briefing com 'PARADO — depende de X' até resolver. — (avaliar)
+- 2026-11-09 — Lembrar 3× a mesma pendência (e-mails HMMG/COREME) não fez ele agir. — 0 envios. — Pendência repetida por 2 dias vai com link direto de 1 toque. — (avaliar)
 - 2026-11-06 — Início. Ainda não há dados sobre o que funciona. Hipótese: briefing curto de manhã + revisão à noite é o ritmo certo. — Revisar na primeira revisão semanal.
