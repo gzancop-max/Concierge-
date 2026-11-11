@@ -5,6 +5,7 @@ Criado em 09/11/2026, depois da suspensão da conta gzancop-max (06–09/11), a 
 ## O que se sabe
 - **O GitHub não informou o motivo** da suspensão (o suporte só confirmou o chamado #4965719).
 - **Não foi limite de requisições:** em 09/11 a conta usava 1 de 15.000 chamadas/hora da API (REST), 3 de 10.000 (GraphQL), 0 de 30 buscas/min.
+- **11/11/2026:** o suporte do GitHub (chamado KV6YL4-PKXGV) respondeu: o sistema antiabuso marcou a conta para revisão manual; as restrições foram retiradas e a conta está liberada. Confirma a hipótese abaixo — as regras continuam valendo.
 - Hipótese mais provável: **conta nova com muita atividade automática de uma vez** (4 sessões fazendo commits e pushes em paralelo, centenas de commits em poucas horas, app OAuth autorizado no meio). Sistemas antiabuso do GitHub olham padrão de comportamento, não só cota.
 
 ## Limites oficiais (para nunca chegar perto)
