@@ -2,7 +2,7 @@
 
 O Concierge coordena estes agentes. **Leitura livre; escrita só com aviso prévio ao usuário** (ver `CLAUDE.md`).
 
-> **Manejo 09/11 16:20:** GitHub de volta; regras de uso prudente (comunicacao/uso-github.md) enviadas aos 3 — TCC aplicou (commit 3534daa), Papelada aplica e pede ok do Giuseppe p/ gravar, Radar sem confirmação ainda. TCC trava com frequência em aprovação de comando (sugerido modo Auto).
+> **Manejo 11/11 08:20:** TCC e Radar rodaram e entregaram (TCC: shell de Resultados; Radar: painel v15). Papelada sem rotina. Sessões longas com custo alto acumulado — avaliar no semanal.
 
 > **GitHub voltou em 09/11** (antes: suspenso 06–09/11; o Drive segue como plano B). Acompanhe os agentes pelo Drive — STATUS na pasta de cada um e a pasta `Mensagens` (IDs em `comunicacao/protocolo-backup-drive.md`). O prompt que o Giuseppe colou nos agentes está em `comunicacao/prompt-para-agentes.md`.
 
