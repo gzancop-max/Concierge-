@@ -8,17 +8,15 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Radar e Papelada: dar o ok, na sessão de cada um, para gravarem as regras do GitHub no CLAUDE.md — usuário — C
 - [ ] TCC: aprovar o comando pendente (desde 07:43) e, de preferência, pôr a sessão do TCC em modo Auto para parar de travar — hoje — usuário — C
 - [ ] Papelada: revisar/aprovar a parte de ambulatório do ciclo 22 — esta semana — usuário — C
-- [ ] TCC: enviar os 2 rascunhos prontos no Gmail (preparados pelo agente TCC em 08/11) — esta semana — usuário — C
 - [ ] Autorizar o Concierge a sugerir à Papelada que junte as dúvidas e siga trabalhando enquanto espera (travou 4× em 2 dias, uma pergunta por vez) — usuário — C
 - [ ] Radar: decidir 2 sugestões (digital/viagens 1×/semana; lista de peças de hardware-alvo) — esta semana — usuário — C
 - [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (3 avisos) — baixa — usuário
 - [ ] TCC: responder a folha com 10 decisões numa linha (e-mail do agente TCC de 07/11 21h) — esta semana — usuário — C
 - [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
 - [ ] TCC: conferir se o diário de campo (Pendência 5) foi anexado à Plataforma Brasil — esta semana — usuário — C
-- [ ] TCC: confirmar com a COREME a data da defesa — o projeto enviado ao CEP diz abr/2027, o plano do agente diz fev/2027 — alta — usuário — C
 - [ ] TCC: confirmar a origem dos dados da Figura 4 / seção 6.6 (coerência com a carta ao CEP) — esta semana — usuário (pedido do agente TCC) — C
-- [ ] 🔥 TCC: ENVIAR o e-mail ao HMMG (rascunho no Gmail desde 06/11, corrigido 08/11) — sem ele a extração não sai em dezembro — HOJE — usuário — C
-- [ ] 🔥 TCC: enviar o rascunho à COREME (data da defesa abr×fev) — HOJE — usuário — C
+- [ ] 🔥 TCC: ENVIAR o e-mail ao HMMG (rascunho no Gmail desde 06/11, corrigido 08/11) — sem ele a extração não sai em dezembro — PRIORIDADE Nº 1 — usuário — C
+- [ ] 🔥 TCC: enviar o rascunho à COREME (data da defesa: CEP diz abr/2027, plano do agente fev/2027) — desde 08/11 — usuário — C
 - [ ] Decidir sobre os 3 PRs em rascunho dos agentes (TCC, Radar, Papelada): mesclar na `main`? — esta semana — usuário — C
 - [ ] Confirmar se a regra "nada por e-mail" vale para o agente TCC também — esta semana — usuário — C
 - [ ] Autorizar a correção do CRM no `CLAUDE.md` da Papelada (238449 → 238339) — esta semana — usuário — C
