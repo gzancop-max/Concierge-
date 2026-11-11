@@ -10,7 +10,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Papelada: revisar/aprovar a parte de ambulatório do ciclo 22 — esta semana — usuário — C
 - [ ] Autorizar o Concierge a sugerir à Papelada que junte as dúvidas e siga trabalhando enquanto espera (travou 4× em 2 dias, uma pergunta por vez) — usuário — C
 - [ ] Radar: decidir 2 sugestões (digital/viagens 1×/semana; lista de peças de hardware-alvo) — esta semana — usuário — C
-- [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (3 avisos) — baixa — usuário
+- [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (4º aviso em 11/11) — baixa — usuário
 - [ ] TCC: responder a folha com 10 decisões numa linha (e-mail do agente TCC de 07/11 21h) — esta semana — usuário — C
 - [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
 - [ ] TCC: conferir se o diário de campo (Pendência 5) foi anexado à Plataforma Brasil — esta semana — usuário — C
