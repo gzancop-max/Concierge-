@@ -4,10 +4,9 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 
 ## 🔴 Precisa do usuário
 - [ ] Contabilizei: mensalidade vence ~15/11 (aviso de 12/11) — 15/11 — usuário — C
-- [ ] Certificado digital da empresa: finalizar a emissão na plataforma da Contabilizei (Certisign aprovou em 12/11) — esta semana — usuário — C
 - [ ] TCC: Tabela 2 da v7 — os números são por enfermeiro ou da equipe toda? (agente achou conta que não fecha) — esta semana — usuário — C
 - [ ] Migração PC-PEPE: ainda quer, agora que o GitHub liberou a conta oficialmente (11/11)? — usuário — C
-- [ ] Afya Educação Médica: cobrança de pendência (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C
+- [ ] Afya Educação Médica: cobrança de pendência (2º aviso em 12/11: 'débito em aberto apesar dos contatos') (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C
 - [ ] TCC: responder ao agente sobre 'os dados do hospital' (conteúdo, período, origem) — cuidado ético: nada de dados de pacientes antes do CEP — amanhã — usuário — C
 - [ ] Radar e Papelada: dar o ok, na sessão de cada um, para gravarem as regras do GitHub no CLAUDE.md — usuário — C
 - [ ] TCC: aprovar o comando pendente (desde 07:43) e, de preferência, pôr a sessão do TCC em modo Auto para parar de travar — hoje — usuário — C
@@ -37,6 +36,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 _(vazio)_
 
 ## ✅ Concluído (últimos 7 dias)
+- [x] Certificado digital da empresa (eCNPJ A1, 1 ano) emitido e disponível na Contabilizei — 2026-11-12 — usuário
 - [x] GitHub de volta: push do Concierge funcionou (72 commits) — 2026-11-09 — concierge
 - [x] Protocolo de backup/comunicação no Drive adotado pelos 4 agentes — 2026-11-06 — todos
 - [x] Ritmo definido: pulso horário, manejo e autocrítica diários — 2026-11-06 — usuário
