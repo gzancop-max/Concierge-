@@ -18,6 +18,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
 - [ ] TCC: conferir se o diário de campo (Pendência 5) foi anexado à Plataforma Brasil — esta semana — usuário — C
 - [ ] TCC: confirmar a origem dos dados da Figura 4 / seção 6.6 (coerência com a carta ao CEP) — esta semana — usuário (pedido do agente TCC) — C
+- [ ] (Prof. Edson: o rascunho está com anexos de 09/11 — atualizar antes de enviar; o agente TCC pode atualizar) — usuário — C
 - [ ] 🔥 TCC: ENVIAR o e-mail ao HMMG (rascunho no Gmail desde 06/11, corrigido 08/11) — sem ele a extração não sai em dezembro — PRIORIDADE Nº 1 — usuário — C
 - [ ] 🔥 TCC: enviar o rascunho à COREME (data da defesa: CEP diz abr/2027, plano do agente fev/2027) — desde 08/11 — usuário — C
 - [ ] Decidir sobre os 3 PRs em rascunho dos agentes (TCC, Radar, Papelada): mesclar na `main`? — esta semana — usuário — C
