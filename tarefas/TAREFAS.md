@@ -30,6 +30,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Varredura diária dos 3 agentes e consolidação do "precisa de você" de cada um no painel — contínuo — concierge — A
 
 ## ⏳ Aguardando terceiros / agentes
+- [ ] São Leopoldo Mandic: liberar o curso autorizado pela direção em 26/10 — ele cobrou em 12/11 19:35 — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
 - [ ] Parecer do CEP — previsto entre 11 e 21/11 (relatoria confirmada em 29/10) — agente:tcc
 
