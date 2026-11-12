@@ -3,6 +3,8 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] Contabilizei: mensalidade vence ~15/11 (aviso de 12/11) — 15/11 — usuário — C
+- [ ] Certificado digital da empresa: finalizar a emissão na plataforma da Contabilizei (Certisign aprovou em 12/11) — esta semana — usuário — C
 - [ ] TCC: Tabela 2 da v7 — os números são por enfermeiro ou da equipe toda? (agente achou conta que não fecha) — esta semana — usuário — C
 - [ ] Migração PC-PEPE: ainda quer, agora que o GitHub liberou a conta oficialmente (11/11)? — usuário — C
 - [ ] Afya Educação Médica: cobrança de pendência (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C

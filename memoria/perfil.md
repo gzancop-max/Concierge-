@@ -16,6 +16,7 @@
 ## Trabalho
 - Médico, **R3 de Cirurgia Geral** — Faculdade São Leopoldo Mandic (Campinas). Terminando a residência; vira especialista em breve. Gosta muito do que faz como cirurgião e de medicina em geral.
 - Atua no Hospital Municipal Dr. Waldemar Tebaldi (Americana) e na Santa Casa de Santa Bárbara.
+- **Empresa (PJ):** Zangrandi e Coppola Serviços Médicos e Tecnologia — contabilidade na Contabilizei (mensalidade com vencimento por volta do dia 15). Em 12/11 emitiu certificado digital (Certisign, finaliza na Contabilizei).
 - **TCC** — IA na triagem do PS adulto do Hospital Municipal Dr. Mário Gatti. Orientador: Prof. Dr. Edson Bezerra Soares. **Defesa: fevereiro/2027** (data exata a confirmar com a COREME). CEP em análise desde 26/10/2026. Detalhes vivem no agente do TCC.
 - Tem muito pouco tempo: cada pergunta custa caro. Prefere coisas simples.
 
