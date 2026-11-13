@@ -12,7 +12,7 @@ O Concierge coordena estes agentes. **Leitura livre; escrita só com aviso prév
 |---|---|---|---|---|---|
 | **Agente TCC** | `gzancop-max/Claude-TCC` | `claude/tcc-admin-agent-8j5fzu` (PR #1) | Administra e faz andar o TCC: Plataforma Brasil/CEP, Gmail, literatura, análise em R, revisões do texto | 06:47 rotina completa · 15:17 bloco · 20:37 bloco + autoavaliação | https://claude.ai/artifact/MUs7hWKEnEVW8sBVbjX2MU |
 | **Radar de Oportunidades** (promoções) | `gzancop-max/Claude--agente-de-promo-es-` | `claude/sweet-clarke-c0047y` (PR #1) | Caça ofertas verificadas (hardware, jogos, medicina, casa, ferramentas, viagens, benefícios) com batedores e verificador | 06:36 caçada diária | https://claude.ai/artifact/Wb7zyN4g2xyA6RNhiXHbQf |
-| **Papelada Cirúrgica** (Gerente) | `gzancop-max/Papelada-m-dica-` | `claude/hopeful-heisenberg-klqrlv` (PR #1); base v2 em `legado/v2` | App HTML offline + Apps Script que gera evoluções, ambulatório, plantão, descrição cirúrgica/alta. Prioridade nº 1: **simplificar** | nenhuma encontrada (roda por ciclos `/ciclo`) | — |
+| **Papelada Cirúrgica** (Gerente) | `gzancop-max/Papelada-m-dica-` | `claude/hopeful-heisenberg-klqrlv` (PR #1); base v2 em `legado/v2` ; **PR #2** `claude/busy-dirac-oygibz` (MCP do Conecte/Wareline, 12/11) | App HTML offline + Apps Script que gera evoluções, ambulatório, plantão, descrição cirúrgica/alta. Prioridade nº 1: **simplificar** | nenhuma encontrada (roda por ciclos `/ciclo`) | — |
 | Triagem do e-mail (rotina avulsa) | — | — | Triagem matinal do Gmail + rascunhos de resposta (nunca envia) | 06:45 seg–sex | — |
 
 ## O que cada agente precisa do usuário hoje (lido em 06/11/2026)
