@@ -3,6 +3,7 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] COREME/CONECTA: inscrição nos cursos de Ética e Metodologia (dezembro) — inscrições até 24/11, curso 01–19/12 (e-mail COREME 13/11 16:11; pode ser o curso que ele cobrou da SLMandic) — 24/11 — usuário — C
 - [ ] Contabilizei: mensalidade vence ~15/11 (aviso de 12/11) — 15/11 — usuário — C
 - [ ] TCC: Tabela 2 da v7 — os números são por enfermeiro ou da equipe toda? (agente achou conta que não fecha) — esta semana — usuário — C
 - [ ] Migração PC-PEPE: ainda quer, agora que o GitHub liberou a conta oficialmente (11/11)? — usuário — C
