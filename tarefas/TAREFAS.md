@@ -3,6 +3,8 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] TCC: até 17/11 — dizer ao agente de onde vieram os números da Figura 4 / seção 6.6 (a carta ao CEP depende disso) — 17/11 — usuário — C
+- [ ] TCC: confirmar o nome do orientador — Edson Soares Bezerra (Plataforma Brasil) ou Edson Bezerra Soares (projeto)? — usuário — C
 - [ ] TCC: HMMG é coparticipante com CEP próprio — no e-mail ao HMMG, perguntar o prazo do CEP do hospital; falar com o Prof. Edson (responsável pela coparticipante) — usuário — C
 - [ ] COREME/CONECTA: inscrição nos cursos de Ética e Metodologia (dezembro) — inscrições até 24/11, curso 01–19/12 (e-mail COREME 13/11 16:11; pode ser o curso que ele cobrou da SLMandic) — 24/11 — usuário — C
 - [ ] Contabilizei: mensalidade vence ~15/11 (aviso de 12/11) — 15/11 — usuário — C
@@ -32,6 +34,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Varredura diária dos 3 agentes e consolidação do "precisa de você" de cada um no painel — contínuo — concierge — A
 
 ## ⏳ Aguardando terceiros / agentes
+- [ ] CEP do HMMG (coparticipante): projeto precisa estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
 - [ ] São Leopoldo Mandic: liberar o curso autorizado pela direção em 26/10 — ele cobrou em 12/11 19:35 — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
 - [ ] Parecer do CEP — relator emitiu parecer da v2 em 13/11 12h27; falta o colegiado — agente:tcc
