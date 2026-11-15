@@ -3,6 +3,8 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
+- [ ] 🔥 Segunda: enviar o ofício ao HMMG (pronto no Gmail; escolher 2 opções no texto: login AGHU/Miatec? intervalos ou horários?) e ligar p/ CEP do HMMG (19) 3772-5894, 8–12h: o projeto chegou? entra em 14/12? — 16/11 — usuário — C
+- [ ] TCC: defesa prevista abr/2027 no projeto, mas a residência termina 28/02/2027 — alinhar com COREME (agente prepara a melhor forma) — usuário — C
 - [ ] TCC: até 17/11 — dizer ao agente de onde vieram os números da Figura 4 / seção 6.6 (a carta ao CEP depende disso) — 17/11 — usuário — C
 - [ ] TCC: confirmar o nome do orientador — Edson Soares Bezerra (Plataforma Brasil) ou Edson Bezerra Soares (projeto)? — usuário — C
 - [ ] TCC: HMMG é coparticipante com CEP próprio — no e-mail ao HMMG, perguntar o prazo do CEP do hospital; falar com o Prof. Edson (responsável pela coparticipante) — usuário — C
@@ -37,12 +39,12 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] CEP do HMMG (coparticipante): projeto precisa estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
 - [ ] São Leopoldo Mandic: liberar o curso autorizado pela direção em 26/10 — ele cobrou em 12/11 19:35 — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
-- [ ] Parecer do CEP — relator 13/11 12h27; colegiado 14/11 15h25; falta só a liberação do coordenador — agente:tcc
 
 ## 📥 Caixa de entrada
 _(vazio)_
 
 ## ✅ Concluído (últimos 7 dias)
+- [x] 🎉 TCC APROVADO no CEP da faculdade — Parecer 8.875.876, liberado 14/11 19h17, sem condições, sem CONEP — 2026-11-14 — agente:tcc
 - [x] Certificado digital da empresa (eCNPJ A1, 1 ano) emitido e disponível na Contabilizei — 2026-11-12 — usuário
 - [x] GitHub de volta: push do Concierge funcionou (72 commits) — 2026-11-09 — concierge
 - [x] Protocolo de backup/comunicação no Drive adotado pelos 4 agentes — 2026-11-06 — todos
