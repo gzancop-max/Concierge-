@@ -8,8 +8,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] TCC: até 17/11 — dizer ao agente de onde vieram os números da Figura 4 / seção 6.6 (a carta ao CEP depende disso) — 17/11 — usuário — C
 - [ ] TCC: confirmar o nome do orientador — Edson Soares Bezerra (Plataforma Brasil) ou Edson Bezerra Soares (projeto)? — usuário — C
 - [ ] TCC: HMMG é coparticipante com CEP próprio — no e-mail ao HMMG, perguntar o prazo do CEP do hospital; falar com o Prof. Edson (responsável pela coparticipante) — usuário — C
-- [ ] COREME/CONECTA: inscrição nos cursos de Ética e Metodologia (dezembro) — inscrições até 24/11, curso 01–19/12 (e-mail COREME 13/11 16:11; pode ser o curso que ele cobrou da SLMandic) — 24/11 — usuário — C
-- [ ] Contabilizei: mensalidade vence ~15/11 (aviso de 12/11) — 15/11 — usuário — C
+- [ ] COREME: reposição da disciplina de Ética (autorizada, ainda não liberada) — ele pediu a regularização em 15/11 10:44 (cópia secretaria); inscrições CONECTA até 24/11, curso 01–19/12 — aguardando COREME — usuário — C
 - [ ] TCC: Tabela 2 da v7 — os números são por enfermeiro ou da equipe toda? (agente achou conta que não fecha) — esta semana — usuário — C
 - [ ] Migração PC-PEPE: ainda quer, agora que o GitHub liberou a conta oficialmente (11/11)? — usuário — C
 - [ ] Afya Educação Médica: cobrança de pendência (2º aviso em 12/11: 'débito em aberto apesar dos contatos') (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C
@@ -37,13 +36,14 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 
 ## ⏳ Aguardando terceiros / agentes
 - [ ] CEP do HMMG (coparticipante): projeto precisa estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
-- [ ] São Leopoldo Mandic: liberar o curso autorizado pela direção em 26/10 — ele cobrou em 12/11 19:35 — terceiros
+- [ ] São Leopoldo Mandic/COREME: liberar a reposição de Ética autorizada em 26/10 — cobrado 12/11 e 15/11 — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
 
 ## 📥 Caixa de entrada
 _(vazio)_
 
 ## ✅ Concluído (últimos 7 dias)
+- [x] Mensalidade Contabilizei paga — 2026-11-15 — usuário
 - [x] 🎉 TCC APROVADO no CEP da faculdade — Parecer 8.875.876, liberado 14/11 19h17, sem condições, sem CONEP — 2026-11-14 — agente:tcc
 - [x] Certificado digital da empresa (eCNPJ A1, 1 ano) emitido e disponível na Contabilizei — 2026-11-12 — usuário
 - [x] GitHub de volta: push do Concierge funcionou (72 commits) — 2026-11-09 — concierge
