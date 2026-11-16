@@ -36,7 +36,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 
 ## ⏳ Aguardando terceiros / agentes
 - [ ] CEP do HMMG (coparticipante): projeto precisa estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
-- [ ] São Leopoldo Mandic/COREME: liberar a reposição de Ética autorizada em 26/10 — cobrado 12/11 e 15/11 — terceiros
+- [ ] São Leopoldo Mandic/COREME: liberar a reposição de Ética autorizada em 26/10 — cobrado 12 e 15/11; secretaria respondeu 16/11 13:07: TI resolvendo, previsão até o fim do dia — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
 
 ## 📥 Caixa de entrada
