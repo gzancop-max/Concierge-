@@ -8,7 +8,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] TCC: até 17/11 — dizer ao agente de onde vieram os números da Figura 4 / seção 6.6 (a carta ao CEP depende disso) — 17/11 — usuário — C
 - [ ] TCC: confirmar o nome do orientador — Edson Soares Bezerra (Plataforma Brasil) ou Edson Bezerra Soares (projeto)? — usuário — C
 - [ ] TCC: HMMG é coparticipante com CEP próprio — no e-mail ao HMMG, perguntar o prazo do CEP do hospital; falar com o Prof. Edson (responsável pela coparticipante) — usuário — C
-- [ ] COREME: reposição da disciplina de Ética (autorizada, ainda não liberada) — ele pediu a regularização em 15/11 10:44 (cópia secretaria); inscrições CONECTA até 24/11, curso 01–19/12 — aguardando COREME — usuário — C
+- [ ] CONECTA/Ética: a SLMandic liberou a plataforma em 17/11 08:30 e pediu que ele confirme se deu certo. Falta ele acessar, se inscrever na reposição de Ética (inscrições até 24/11, curso 01–19/12) e responder à secretaria — até 24/11 — usuário — C
 - [ ] TCC: Tabela 2 da v7 — os números são por enfermeiro ou da equipe toda? (agente achou conta que não fecha) — esta semana — usuário — C
 - [ ] Migração PC-PEPE: ainda quer, agora que o GitHub liberou a conta oficialmente (11/11)? — usuário — C
 - [ ] Afya Educação Médica: cobrança de pendência (2º aviso em 12/11: 'débito em aberto apesar dos contatos') (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C
@@ -34,7 +34,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 
 ## ⏳ Aguardando terceiros / agentes
 - [ ] CEP do HMMG (coparticipante): projeto precisa estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
-- [ ] São Leopoldo Mandic/COREME: liberar a reposição de Ética autorizada em 26/10 — cobrado 12 e 15/11; secretaria respondeu 16/11 13:07: TI resolvendo, previsão até o fim do dia — terceiros
+- [x] São Leopoldo Mandic/COREME: liberar a reposição de Ética autorizada em 26/10 — cobrado 12 e 15/11; secretaria respondeu 16/11 13:07: TI resolvendo, previsão até o fim do dia — LIBERADO 17/11 08:30 — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
 
 ## 📥 Caixa de entrada
