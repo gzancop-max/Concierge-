@@ -3,7 +3,7 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
-- [ ] 🔥 Segunda: enviar o ofício ao HMMG (pronto no Gmail; escolher 2 opções no texto: login AGHU/Miatec? intervalos ou horários?) e ligar p/ CEP do HMMG (19) 3772-5894, 8–12h: o projeto chegou? entra em 14/12? — 16/11 — usuário — C
+- [ ] 🔥 (desde seg 16/11) enviar o ofício ao HMMG (pronto no Gmail; escolher 2 opções no texto: login AGHU/Miatec? intervalos ou horários?) e ligar p/ CEP do HMMG (19) 3772-5894, 8–12h: o projeto chegou? entra em 14/12? — 16/11 — usuário — C
 - [ ] TCC: defesa prevista abr/2027 no projeto, mas a residência termina 28/02/2027 — alinhar com COREME (agente prepara a melhor forma) — usuário — C
 - [ ] TCC: até 17/11 — dizer ao agente de onde vieram os números da Figura 4 / seção 6.6 (a carta ao CEP depende disso) — 17/11 — usuário — C
 - [ ] TCC: confirmar o nome do orientador — Edson Soares Bezerra (Plataforma Brasil) ou Edson Bezerra Soares (projeto)? — usuário — C
@@ -22,9 +22,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] TCC: responder a folha com 10 decisões numa linha (e-mail do agente TCC de 07/11 21h) — esta semana — usuário — C
 - [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
 - [ ] TCC: conferir se o diário de campo (Pendência 5) foi anexado à Plataforma Brasil — esta semana — usuário — C
-- [ ] TCC: confirmar a origem dos dados da Figura 4 / seção 6.6 (coerência com a carta ao CEP) — esta semana — usuário (pedido do agente TCC) — C
 - [ ] (Prof. Edson: o rascunho está com anexos de 09/11 — atualizar antes de enviar; o agente TCC pode atualizar) — usuário — C
-- [ ] 🔥 TCC: ENVIAR o e-mail ao HMMG (rascunho no Gmail desde 06/11, corrigido 08/11) — sem ele a extração não sai em dezembro — PRIORIDADE Nº 1 — usuário — C
 - [ ] 🔥 TCC: enviar o rascunho à COREME (data da defesa: CEP diz abr/2027, plano do agente fev/2027) — desde 08/11 — usuário — C
 - [ ] Decidir sobre os 3 PRs em rascunho dos agentes (TCC, Radar, Papelada): mesclar na `main`? — esta semana — usuário — C
 - [ ] Confirmar se a regra "nada por e-mail" vale para o agente TCC também — esta semana — usuário — C
