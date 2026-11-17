@@ -3,7 +3,7 @@
 Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuário | concierge | agente:<nome>) — nível (A/B/C)`
 
 ## 🔴 Precisa do usuário
-- [ ] 🔥 (desde seg 16/11) enviar o ofício ao HMMG (pronto no Gmail; escolher 2 opções no texto: login AGHU/Miatec? intervalos ou horários?) e ligar p/ CEP do HMMG (19) 3772-5894, 8–12h: o projeto chegou? entra em 14/12? — 16/11 — usuário — C
+- [ ] 🔥 (desde seg 16/11) enviar o ofício ao HMMG (pronto no Gmail; escolher 2 opções no texto: login AGHU/Miatec? intervalos ou horários?) (o telefonema não é mais necessário: a Plataforma Brasil confirmou em 17/11 13:40 que o projeto foi aceito para análise) — 16/11 — usuário — C
 - [ ] TCC: defesa prevista abr/2027 no projeto, mas a residência termina 28/02/2027 — alinhar com COREME (agente prepara a melhor forma) — usuário — C
 - [ ] TCC: até 17/11 — dizer ao agente de onde vieram os números da Figura 4 / seção 6.6 (a carta ao CEP depende disso) — 17/11 — usuário — C
 - [ ] TCC: confirmar o nome do orientador — Edson Soares Bezerra (Plataforma Brasil) ou Edson Bezerra Soares (projeto)? — usuário — C
@@ -33,7 +33,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Varredura diária dos 3 agentes e consolidação do "precisa de você" de cada um no painel — contínuo — concierge — A
 
 ## ⏳ Aguardando terceiros / agentes
-- [ ] CEP do HMMG (coparticipante): projeto precisa estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
+- [ ] CEP do HMMG (coparticipante): **ACEITO PARA ANÁLISE em 17/11 13:40** (validação documental concluída; aguardando parecer). Era preciso estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
 - [x] São Leopoldo Mandic/COREME: liberar a reposição de Ética autorizada em 26/10 — cobrado 12 e 15/11; secretaria respondeu 16/11 13:07: TI resolvendo, previsão até o fim do dia — LIBERADO 17/11 08:30 — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
 
