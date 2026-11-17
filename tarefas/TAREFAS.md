@@ -33,7 +33,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Varredura diária dos 3 agentes e consolidação do "precisa de você" de cada um no painel — contínuo — concierge — A
 
 ## ⏳ Aguardando terceiros / agentes
-- [ ] CEP do HMMG (coparticipante): **ACEITO PARA ANÁLISE em 17/11 13:40** (validação documental concluída; aguardando parecer). Era preciso estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
+- [ ] CEP do HMMG (coparticipante): **ACEITO PARA ANÁLISE em 17/11 13:40**; em 17/11 16:30 ele enviou ao CEP do HMMG o Termo de Anuência da Unidade, o parecer da SLMandic e a explicação da dispensa do TCLE. Aguardando a resposta do CEP. Era preciso estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
 - [x] São Leopoldo Mandic/COREME: liberar a reposição de Ética autorizada em 26/10 — cobrado 12 e 15/11; secretaria respondeu 16/11 13:07: TI resolvendo, previsão até o fim do dia — LIBERADO 17/11 08:30 — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
 
