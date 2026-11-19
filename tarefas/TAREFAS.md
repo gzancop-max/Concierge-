@@ -18,6 +18,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Papelada: revisar/aprovar a parte de ambulatório do ciclo 22 — esta semana — usuário — C
 - [ ] Autorizar o Concierge a sugerir à Papelada que junte as dúvidas e siga trabalhando enquanto espera (travou 4× em 2 dias, uma pergunta por vez) — usuário — C
 - [ ] Radar: decidir 2 sugestões (digital/viagens 1×/semana; lista de peças de hardware-alvo) — esta semana — usuário — C
+- [ ] Inter Empresas (PJ): pedido de atualização cadastral da empresa, para não ter o acesso impactado (e-mail de 19/11; conferir no app do Inter se o pedido é real) — baixa — usuário — C
 - [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (4º aviso em 11/11) — baixa — usuário
 - [ ] TCC: responder a folha com 10 decisões numa linha (e-mail do agente TCC de 07/11 21h) — esta semana — usuário — C
 - [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
@@ -33,7 +34,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Varredura diária dos 3 agentes e consolidação do "precisa de você" de cada um no painel — contínuo — concierge — A
 
 ## ⏳ Aguardando terceiros / agentes
-- [ ] CEP do HMMG (coparticipante): **ACEITO PARA ANÁLISE em 17/11 13:40**; em 17/11 16:30 ele enviou ao CEP do HMMG o Termo de Anuência da Unidade, o parecer da SLMandic e a explicação da dispensa do TCLE. Aguardando a resposta do CEP. Era preciso estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
+- [ ] CEP do HMMG (coparticipante): **ACEITO PARA ANÁLISE em 17/11 13:40**; em 17/11 16:30 ele enviou o termo por e-mail; 19/11: o CEP pediu o termo na Plataforma Brasil e o Agente TCC anexou e **reenviou o projeto ao CEP do HMMG** (tarde de 19/11). Aguardando apreciação (reunião 14/12). Era preciso estar no sistema até 07/12 (senão ligar: (19) 3772-5894, 8–12h, cep@redemariogatti.sp.gov.br); reunião 14/12; sem aprovação até 18/12 → defesa com plano B (SIH/SUS) — terceiros
 - [x] São Leopoldo Mandic/COREME: liberar a reposição de Ética autorizada em 26/10 — cobrado 12 e 15/11; secretaria respondeu 16/11 13:07: TI resolvendo, previsão até o fim do dia — LIBERADO 17/11 08:30 — terceiros
 - [ ] Papelada: terminar o primeiro backup no Drive (2 de 5 patches enviados às 21:20) — agente:papelada
 
