@@ -11,7 +11,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] CONECTA/Ética: a SLMandic liberou a plataforma em 17/11 08:30 e pediu que ele confirme se deu certo. Falta ele acessar, se inscrever na reposição de Ética (inscrições até 24/11, curso 01–19/12) e responder à secretaria — até 24/11 — usuário — C
 - [ ] TCC: Tabela 2 da v7 — os números são por enfermeiro ou da equipe toda? (agente achou conta que não fecha) — esta semana — usuário — C
 - [ ] Migração PC-PEPE: ainda quer, agora que o GitHub liberou a conta oficialmente (11/11)? — usuário — C
-- [ ] Afya Educação Médica: cobrança de pendência (2º aviso em 12/11: 'débito em aberto apesar dos contatos') (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C
+- [ ] Afya Educação Médica: cobrança de pendência (2º aviso em 12/11: 'débito em aberto apesar dos contatos'; 3º em 13/11; em 18/11 ofereceram parcelamento) (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C
 - [ ] TCC: responder ao agente sobre 'os dados do hospital' (conteúdo, período, origem) — cuidado ético: nada de dados de pacientes antes do CEP — amanhã — usuário — C
 - [ ] Radar e Papelada: dar o ok, na sessão de cada um, para gravarem as regras do GitHub no CLAUDE.md — usuário — C
 - [ ] TCC: aprovar o comando pendente (desde 07:43) e, de preferência, pôr a sessão do TCC em modo Auto para parar de travar — hoje — usuário — C
