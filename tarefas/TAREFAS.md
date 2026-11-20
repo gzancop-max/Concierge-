@@ -8,7 +8,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] TCC: até 17/11 — dizer ao agente de onde vieram os números da Figura 4 / seção 6.6 (a carta ao CEP depende disso) — 17/11 — usuário — C
 - [ ] TCC: confirmar o nome do orientador — Edson Soares Bezerra (Plataforma Brasil) ou Edson Bezerra Soares (projeto)? — usuário — C
 - [ ] TCC: HMMG é coparticipante com CEP próprio — no e-mail ao HMMG, perguntar o prazo do CEP do hospital; falar com o Prof. Edson (responsável pela coparticipante) — usuário — C
-- [ ] CONECTA/Ética: a SLMandic liberou a plataforma em 17/11 08:30 e pediu que ele confirme se deu certo. Falta ele acessar, se inscrever na reposição de Ética (inscrições até 24/11, curso 01–19/12) e responder à secretaria — até 24/11 — usuário — C
+- [ ] Ética (reposição já APROVADA, com isenção; requerimento 49771222859; turma DCR Novembro EAD no Blackboard, de 01/11 a **30/11**): a SLMandic diz que liberou em 17/11 e pediu confirmação. Ele precisa abrir o Blackboard, conferir, fazer a disciplina até 30/11 e enviar o rascunho de resposta (criado em 20/11 com as opções A/B). Não precisa de nova inscrição no CONECTA — até 30/11 — usuário — C
 - [ ] TCC: Tabela 2 da v7 — os números são por enfermeiro ou da equipe toda? (agente achou conta que não fecha) — esta semana — usuário — C
 - [ ] Migração PC-PEPE: ainda quer, agora que o GitHub liberou a conta oficialmente (11/11)? — usuário — C
 - [ ] Afya Educação Médica: cobrança de pendência (2º aviso em 12/11: 'débito em aberto apesar dos contatos'; 3º em 13/11; em 18/11 ofereceram parcelamento) (multa/juros/restrições acadêmicas) — conferir se é real e se já foi paga; 0800 800 2392 (seg–sex 8–20h) — esta semana — usuário — C
