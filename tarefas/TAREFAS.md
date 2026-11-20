@@ -19,6 +19,7 @@ Fonte única da verdade. Formato: `- [ ] descrição — prazo — dono (usuári
 - [ ] Autorizar o Concierge a sugerir à Papelada que junte as dúvidas e siga trabalhando enquanto espera (travou 4× em 2 dias, uma pergunta por vez) — usuário — C
 - [ ] Radar: decidir 2 sugestões (digital/viagens 1×/semana; lista de peças de hardware-alvo) — esta semana — usuário — C
 - [ ] Inter Empresas (PJ): pedido de atualização cadastral da empresa, para não ter o acesso impactado (e-mail de 19/11; conferir no app do Inter se o pedido é real) — baixa — usuário — C
+- [ ] Agente de prescrição (Memed + Bird ID): ele cria o repositório (ex.: `prescricao-memed`) e abre uma sessão na pasta; depois o Concierge monta o agente (modo "prepara e ele assina" ou janela de sessão do Bird ID) — quando ele quiser — usuário — C
 - [ ] Botmaker: o bot 'renovaqui' (Messenger) ainda é usado? Token expirando (4º aviso em 11/11) — baixa — usuário
 - [ ] TCC: responder a folha com 10 decisões numa linha (e-mail do agente TCC de 07/11 21h) — esta semana — usuário — C
 - [ ] Confirmar se pediu aos agentes "menos pedidos de permissão" (o TCC criou uma lista de permissões fixas no próprio repositório em 07/11 e sugeriu a todos). O Concierge não ampliou a própria — só com seu ok — esta semana — usuário — C
